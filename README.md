@@ -34,8 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongun130&layout=compact)](https://github.com/yeongun130/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/yeongun130)
-
 ----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
