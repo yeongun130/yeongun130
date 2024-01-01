@@ -27,6 +27,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visaul Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-00599C.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-2596be.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 </div>
 
 ## ✨GitHub State
