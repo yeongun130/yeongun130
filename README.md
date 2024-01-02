@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&text=Android%20Developer%20&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Yeongun%20Jeong&descAlignY=57&descAlign=79)
 
-### Hello, my name is Yeongun and <br>I am a student who dreams of becoming a android app developer.<br>
+### Hello, my name is Yeongun and <br>I am a student who dreams of becoming a android developer.<br>
 
 #### Address : yeongunj625@gmail.com
 
