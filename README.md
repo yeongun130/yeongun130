@@ -23,7 +23,6 @@
 
 #### Want to Learn  
 <div align>  
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visaul Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-00599C.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
