@@ -2,7 +2,7 @@
 
 ### Hello, my name is Yeongun and <br>I am a student who dreams of becoming a android developer.<br>
 
-#### Email : yeongunj625@gmail.com
+#### Email : yeongunj625@gmail.com 
 
 ## ✨Introduce
 - 📘 I'm learning Kotlin and Android right now.
